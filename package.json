@@ -1,0 +1,20 @@
+{
+  "name": "blog-moderation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smartdev0612/blog-moderation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smartdev0612/blog-moderation/issues"
+  },
+  "homepage": "https://github.com/smartdev0612/blog-moderation#readme"
+}
